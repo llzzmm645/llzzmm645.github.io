@@ -1,1 +1,7 @@
-select{width:5cm}form{width:8cm}fieldset{color:orange;width:5px}
+select{width:5cm}
+form{width:8cm;
+    border-left-style:solid;
+    border-left-color:rgb(0,126,255);
+    border-left-width:4px
+}
+fieldset{color:orange;width:5px}
