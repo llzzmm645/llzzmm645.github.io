@@ -2,6 +2,7 @@ select{width:5cm}
 form{width:8cm;
     border-left-style:solid;
     border-left-color:rgb(0,126,255);
-    border-left-width:4px
+    border-left-width:4px;
+    background-color:rgb(150,200,255);
 }
 fieldset{color:orange;width:5px}
